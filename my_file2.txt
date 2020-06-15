@@ -1,2 +1,3 @@
 my file 2 more words added
 another feature
+yet another feature
